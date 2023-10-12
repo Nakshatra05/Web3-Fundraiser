@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\shiva\\Desktop\\crowdfunding\\contracts\\Campaign.sol": {
+      "lastModificationDate": 1663503202186,
+      "contentHash": "a26a33820a548406f476441a9d80ba9e",
+      "sourceName": "contracts/Campaign.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">0.7.0 <=0.9.0"
+      ],
+      "artifacts": [
+        "Campaign",
+        "CampaignFactory"
+      ]
+    }
+  }
+}
